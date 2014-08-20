@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Omar Design</title>
+    <description>Illustration Art Digital. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 19 Aug 2014 23:30:30 -0500</pubDate>
+    <lastBuildDate>Tue, 19 Aug 2014 23:30:30 -0500</lastBuildDate>
+    <generator>Jekyll v2.1.1</generator>
+    
+      <item>
+        <title>MakerSquare: Week 1.2</title>
+        <description>&lt;p&gt;Tonight we delved deeper into the World Wide Web, or the “interweb” as the kids call it nowadays.&lt;/p&gt;
+
+&lt;p&gt;Went over fundamentals on folder structure that from now on will be refferd to as “directories”. That should help me figure it out. Never thought I get hanged up on folders…i mean directories, gosh this is tricky. &lt;/p&gt;
+
+&lt;p&gt;Well, always use relative paths in your web projects. Keep things tidy once you move directories around as you work.&lt;/p&gt;
+
+&lt;p&gt;We also got to discuss some basic CSS stuff (I’ll update as soon as I understand)&lt;/p&gt;
+</description>
+        <pubDate>Wed, 18 Jun 2014 05:01:50 -0500</pubDate>
+        <link>http://yourdomain.com/development/makersquare/2014/06/18/makersquare-week-1.2/</link>
+        <guid isPermaLink="true">http://yourdomain.com/development/makersquare/2014/06/18/makersquare-week-1.2/</guid>
+        
+        
+        <category>development</category>
+        
+        <category>makersquare</category>
+        
+      </item>
+    
+      <item>
+        <title>MakerSquare: Week 1.1</title>
+        <description>&lt;p&gt;Today we did a large amount of setup through the command line (yikes!) and learned about the fascinating world of git. &lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Git:&lt;/b&gt;&lt;br /&gt;
+is a distributed revision control and source code management (SCM) system with an emphasis on speed, data integrity, and support for distributed, non-linear workflows.&lt;br /&gt;
+&lt;em&gt;&lt;b&gt;Wikipedia (2014). Git (software) Retrieved from &lt;/b&gt; &lt;a href=&quot;http://en.wikipedia.org/wiki/Git_%28software%29&quot; target=&quot;_blank&quot;&gt;Wikipedia&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Like stated above git is a version contrtol system not to be confused with &lt;a href=&quot;http://github.com&quot; target=&quot;_blank&quot;&gt;github.com&lt;/a&gt; (where git files are stored). It allows multiple individuals to work on software/sites without stepping on each others toes. Pretty cool, huh?&lt;/p&gt;
+
+&lt;p&gt;We picked up a few key commands to keep our work saved and up to date on github. I will have to play around with this to get a good grasp on its functionality. &lt;/p&gt;
+</description>
+        <pubDate>Mon, 16 Jun 2014 05:01:50 -0500</pubDate>
+        <link>http://yourdomain.com/development/makersquare/2014/06/16/makersquare-week-1.1/</link>
+        <guid isPermaLink="true">http://yourdomain.com/development/makersquare/2014/06/16/makersquare-week-1.1/</guid>
+        
+        
+        <category>development</category>
+        
+        <category>makersquare</category>
+        
+      </item>
+    
+  </channel>
+</rss>
